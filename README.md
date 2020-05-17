@@ -7,7 +7,7 @@ All equations can be found in the referenced paper.
 MATLAB/Simulink software
 
 # Authors
-Ahmad Kourani - Initial work - KouraniMeka
-[KouraniMeka](https://github.com/user/repo/blob/branch/other_file.md)
+Ahmad Kourani - Initial work - [KouraniMeka](https://github.com/KouraniMEKA)
+
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details
