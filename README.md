@@ -6,6 +6,12 @@ All equations can be found in the referenced paper.
 # Prerequisites
 MATLAB/Simulink software.
 
+# How to use
+1- Download the files. <br />
+2- double click "TetheredUAVControl.prj" to open it in the MATLAB/Simulink environment (Now the parameters will be loaded and the emplementation in Simulink will pop-up). <br />
+3- Run the simulink model to plot the results. <br />
+
+
 # Authors
 Ahmad Kourani - Initial work - [KouraniMEKA](https://github.com/KouraniMEKA).
 
