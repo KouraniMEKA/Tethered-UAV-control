@@ -1,6 +1,6 @@
 # Tethered-UAV-control
-A MATLAB/Simulink implementation of the tethered UAV control problem under the taut cable condition.
-This is an implementation of paper titled "Nonlinear control of a tethered UAV: The taut cable case", by [M. Nicotra et.at.](https://www.researchgate.net/publication/308823858_Nonlinear_Control_of_a_Tethered_UAV_the_Taut_Cable_case) (2017).
+A MATLAB/Simulink implementation of the tethered UAV control problem under the taut cable condition. <br />
+This is an implementation of paper titled "Nonlinear control of a tethered UAV: The taut cable case", by [M. Nicotra et.at.](https://www.researchgate.net/publication/308823858_Nonlinear_Control_of_a_Tethered_UAV_the_Taut_Cable_case) (2017). <br />
 All equations can be found in the referenced paper.
 
 # Prerequisites
@@ -10,6 +10,8 @@ MATLAB/Simulink software.
 1- Download the files. <br />
 2- double click "TetheredUAVControl.prj" to open it in the MATLAB/Simulink environment (Now the parameters will be loaded and the emplementation in Simulink will pop-up). <br />
 3- Run the simulink model to plot the results. <br />
+4- Edit the MATLAB script "UAV_Taut_Cable_parameters.m" for your desiered scenario and parameters.
+
 
 
 # Authors
