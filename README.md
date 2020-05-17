@@ -8,9 +8,9 @@ MATLAB/Simulink software.
 
 # How to use
 1- Download the files. <br />
-2- double click "TetheredUAVControl.prj" to open it in the MATLAB/Simulink environment (Now the parameters will be loaded and the emplementation in Simulink will pop-up). <br />
-3- Run the simulink model to plot the results. <br />
-4- Edit the MATLAB script "UAV_Taut_Cable_parameters.m" for your desiered scenario and parameters.
+2- double click "TetheredUAVControl.prj" to open it in the MATLAB/Simulink environment (now the parameters will be loaded and the Simulink model "UAV_Taut_Cable.slx" will pop-up). <br />
+3- Run the Simulink model to plot the results. <br />
+4- ... Edit the MATLAB script "UAV_Taut_Cable_parameters.m" for your desiered scenario and parameters.
 
 
 
