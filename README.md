@@ -6,7 +6,7 @@ All equations can be found in the referenced paper.
 <p align="center">
   <img src="https://github.com/KouraniMEKA/Tethered-UAV-control/blob/master/images/Tethered_UAV.JPG">
   <br />
-  Planar model of a tethered UAV with a taut cable.
+  Planar model of a tethered UAV with a taut cable [Nicotra2017](https://www.sciencedirect.com/science/article/pii/S000510981630526X?via%3Dihub)
 </p>
 
 # Prerequisites
