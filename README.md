@@ -30,7 +30,7 @@ MATLAB/Simulink software.
 </p>
 
 # Authors
-[KouraniMEKA](https://github.com/KouraniMEKA).
+Ahmad Kourani - Initial work -[KouraniMEKA](https://github.com/KouraniMEKA).
 
 # License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/KouraniMEKA/Tethered-UAV-control/blob/master/LICENSE) file for details.
