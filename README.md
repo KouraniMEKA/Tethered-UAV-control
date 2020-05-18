@@ -12,7 +12,7 @@ All equations can be found in the referenced paper.
 [.](https://) 
   
 # Prerequisites
-MATLAB/Simulink software v2018a.
+MATLAB/Simulink software v2018a or higher.
 
 # How to use
 1. Download the files. <br />
