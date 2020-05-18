@@ -31,7 +31,7 @@ MATLAB/Simulink software.
 
 # Authors
 
-**Ahmad Kourani** - *inital work* <br />
+**Ahmad Kourani** - *inital work* - <br />
 <br />
 [KouraniMEKA](https://github.com/KouraniMEKA).
 <br />
