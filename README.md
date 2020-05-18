@@ -3,6 +3,7 @@ A MATLAB/Simulink implementation of the tethered UAV control problem under the t
 This is an implementation of paper titled ["Nonlinear control of a tethered UAV: The taut cable case"](https://www.sciencedirect.com/science/article/pii/S000510981630526X?via%3Dihub), by M. Nicotra et.at. (2017). <br />
 All equations can be found in the referenced paper.
 
+<p align="center">
 ![ Planar model of a tethered UAV with a taut cable.](https://github.com/KouraniMEKA/Tethered-UAV-control/blob/master/images/Tethered_UAV.JPG)
 
 # Prerequisites
