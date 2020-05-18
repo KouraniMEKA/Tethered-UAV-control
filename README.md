@@ -4,7 +4,10 @@ This is an implementation of paper titled ["Nonlinear control of a tethered UAV:
 All equations can be found in the referenced paper.
 
 <p align="center">
-![ Planar model of a tethered UAV with a taut cable.](https://github.com/KouraniMEKA/Tethered-UAV-control/blob/master/images/Tethered_UAV.JPG)
+  <img width="460" height="300" src="https://github.com/KouraniMEKA/Tethered-UAV-control/blob/master/images/Tethered_UAV.JPG">
+  <br />
+  Planar model of a tethered UAV with a taut cable.
+</p>
 
 # Prerequisites
 MATLAB/Simulink software.
