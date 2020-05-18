@@ -12,13 +12,13 @@ All equations can be found in the referenced paper.
 [.](https://) 
   
 # Prerequisites
-MATLAB/Simulink software.
+MATLAB/Simulink software v2018a.
 
 # How to use
-1- Download the files. <br />
-2- double click ["TetheredUAVControl.prj"](https://github.com/KouraniMEKA/Tethered-UAV-control/blob/master/TetheredUAVControl.prj) to open it in the MATLAB/Simulink environment (now the parameters will be loaded and the Simulink model ["UAV_Taut_Cable.slx"](https://github.com/KouraniMEKA/Tethered-UAV-control/blob/master/UAV_Taut_Cable.slx) will pop-up). <br />
-3- Run the Simulink model to generate the results (results can be monitored in the scope elements). <br />
-4- ... Edit the MATLAB script ["UAV_Taut_Cable_parameters.m"](https://github.com/KouraniMEKA/Tethered-UAV-control/blob/master/UAV_Taut_Cable_parameters.m) for your desiered scenario and parameters.
+1. Download the files. <br />
+2. double click ["TetheredUAVControl.prj"](https://github.com/KouraniMEKA/Tethered-UAV-control/blob/master/TetheredUAVControl.prj) to open it in the MATLAB/Simulink environment (now the parameters will be loaded and the Simulink model ["UAV_Taut_Cable.slx"](https://github.com/KouraniMEKA/Tethered-UAV-control/blob/master/UAV_Taut_Cable.slx) will pop-up). <br />
+3. Run the Simulink model to generate the results (results can be monitored in the scope elements). <br />
+4. ... Edit the MATLAB script ["UAV_Taut_Cable_parameters.m"](https://github.com/KouraniMEKA/Tethered-UAV-control/blob/master/UAV_Taut_Cable_parameters.m) for your desiered scenario and parameters.
 
 # Sample results
 <p align="center">
