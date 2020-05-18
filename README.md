@@ -8,7 +8,8 @@ All equations can be found in the referenced paper.
   <br />
   Planar model of a tethered UAV with a taut cable <a href="https://www.sciencedirect.com/science/article/pii/S000510981630526X?via%3Dihub">[Nicotra2017]
 </p>
-
+[](https://) 
+  
 # Prerequisites
 MATLAB/Simulink software.
 
@@ -30,8 +31,7 @@ MATLAB/Simulink software.
 </p>
 
 # Authors
-
-[](https://) **Ahmad Kourani** - *inital work* - [KouraniMEKA](https://github.com/KouraniMEKA).
+**Ahmad Kourani** - *inital work* - [KouraniMEKA](https://github.com/KouraniMEKA).
 
 # License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/KouraniMEKA/Tethered-UAV-control/blob/master/LICENSE) file for details.
