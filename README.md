@@ -8,7 +8,8 @@ All equations can be found in the referenced paper.
   <br />
   Planar model of a tethered UAV with a taut cable <a href="https://www.sciencedirect.com/science/article/pii/S000510981630526X?via%3Dihub">[Nicotra2017]
 </p>
-[](https://) 
+  
+[.](https://) 
   
 # Prerequisites
 MATLAB/Simulink software.
