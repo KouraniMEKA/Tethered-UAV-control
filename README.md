@@ -18,7 +18,7 @@ MATLAB/Simulink software.
 3- Run the Simulink model to plot the results. <br />
 4- ... Edit the MATLAB script "UAV_Taut_Cable_parameters.m" for your desiered scenario and parameters.
 
-# Sample results:
+# Sample results
 <p align="center">
   <img src="https://github.com/KouraniMEKA/Tethered-UAV-control/blob/master/images/alpha.JPG">
   <br />
@@ -31,7 +31,7 @@ MATLAB/Simulink software.
 
 # Authors
 Ahmad Kourani - Initial work -[KouraniMEKA](https://github.com/KouraniMEKA).
-
+<br />
 # License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/KouraniMEKA/Tethered-UAV-control/blob/master/LICENSE) file for details.
  
