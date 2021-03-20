@@ -34,6 +34,9 @@ MATLAB/Simulink software v2018a or higher.
 # Authors
 **Ahmad Kourani** - *inital work* - [KouraniMEKA](https://github.com/KouraniMEKA).
 
+# References
+[Nicotra2017] M. M. Nicotra, R. Naldi, and E. Garone, “Nonlinear control of a tethered UAV: The taut cable case,” _Automatica_, vol. 78, pp. 174-184, 2017.
+
 # License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/KouraniMEKA/Tethered-UAV-control/blob/master/LICENSE) file for details.
  
